@@ -3,6 +3,21 @@
 	margin-top: 2em;
 }
 
+.contact-info{
+	font-size: 10pt;
+	color: #cccccc;
+}
+
+img.thumbnail{
+	width: 50px;
+	height: 100px;
+	border: 1px solid #434343;
+}
+
+.project {
+	margin-left: 10px;
+}
+
 /* applies to any <p> descendants of an element of class "example-class-selector" */
 .example-class-selector p {
 	/* Colors are in hexadecimal: http://www.colorpicker.com/ */
